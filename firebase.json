@@ -1,0 +1,16 @@
+{
+    "flutter": {
+        "platforms": {
+            "dart": {
+                "lib/firebase_options.dart": {
+                    "projectId": "dentalai-977aa",
+                    "configurations": {
+                        "macos": "1:763661712803:ios:fef4331640e711e15f6e16",
+                        "web": "1:763661712803:web:a8ea79efa54ac9485f6e16",
+                        "windows": "1:763661712803:web:43b675b861f695455f6e16"
+                    }
+                }
+            }
+        }
+    }
+}
